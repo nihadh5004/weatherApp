@@ -108,11 +108,11 @@ function Home() {
   }}
 >
 
-    <div className="flex p-20 ">
+    <div className="flex p-16 ">
         <div className="w-1/2 ">
             
         </div>
-      <div className="text-white bg-black p-10  bg-opacity-50 mt-10 w-[510px]  rounded-lg shadow-lg  text-center  ">
+      <div className="text-white bg-black p-8  bg-opacity-50 mt-10 w-[510px]  rounded-lg shadow-lg  text-center  ">
        <div className="flex gap-5">
 
         <input
